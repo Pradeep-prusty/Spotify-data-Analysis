@@ -2,5 +2,4 @@
 
 # Spotify Data Analysis
 
-### Dataset Links: https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db
-### Dataset Links: https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets
+#### Dataset Links: https://drive.google.com/drive/folders/116PMs3TI_RY_blrBluu5utdfo7uqfmu2?usp=sharing
